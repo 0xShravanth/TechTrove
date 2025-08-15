@@ -1,2 +1,2 @@
 # TechTrove
-learning about ReactJS
+learning about ReactJS and NodeJS
