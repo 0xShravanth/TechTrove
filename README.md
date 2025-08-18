@@ -1,2 +1,2 @@
 # TechTrove
-learning about ReactJS and NodeJS
+repo is about learning ReactJS and NodeJS
