@@ -1,0 +1,20 @@
+{
+  "name": "techtrove_node",
+  "version": "1.0.0",
+  "description": "node Js learning  file ",
+  "homepage": "https://github.com/0xShravanth/TechTrove#readme",
+  "bugs": {
+    "url": "https://github.com/0xShravanth/TechTrove/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xShravanth/TechTrove.git"
+  },
+  "license": "ISC",
+  "author": "shravanth",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
